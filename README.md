@@ -10,18 +10,23 @@ Multirotors have gradually become one of the most widespread tools for monitorin
 
 GitHub link: https://github.com/SmFaraji/Final_Pro...
 
-telegram channel         t.me/EngineeringLab
-aparat channel           www.aparat.com/EngineeringLab
-YouTube channel          https://www.youtube.com/@sm_faraji
-GitHub                   https://github.com/SmFaraji
+telegram channel     -> https://t.me/EngineeringLab
+
+aparat channel       -> www.aparat.com/EngineeringLab
+
+youtube channel      -> https://www.youtube.com/@sm_faraji
+
+GitHub               -> https://github.com/SmFaraji
 
 ## Project Diagram
+block diagram of project:
 
 <a href="https://www.youtube.com/watch?v=K7dHUDejqlA" target="_blank">
  <img src="https://github.com/SmFaraji/Final_Project_AndroidCopter/blob/main/project%20diaram.png" alt="Watch the video" width="680" height="480" border="10" />
 </a>
 
 ## Project Components
+main components of my project:
 
 <a href="https://www.youtube.com/watch?v=K7dHUDejqlA" target="_blank">
  <img src="https://github.com/SmFaraji/Final_Project_AndroidCopter/blob/main/components.png" alt="Watch the video" width="680" height="480" border="10" />
